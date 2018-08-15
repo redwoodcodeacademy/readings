@@ -20,7 +20,7 @@ best answered by looking at where the array struggles.
 var pokemons = ["squirtle", "bulbosaur", "charmander", "pikachu", "onix"];
 
 // this correspond              // returns 23s to each pokemon in our pokemons array; ex: squirtle's attack point is 23
-var defensePoints = [23, 34, 25, 30, 15];
+var attackPoints = [23, 34, 25, 30, 15];
 
 // Now let's say I want to look up what bulbosaur's attack point is.
 var bulbosaurIndex = pokemons.indexOf("bulbosaur");                 // equals 1
