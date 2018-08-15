@@ -40,11 +40,11 @@ anotherKarimExample.greeting = function () {
 
 /* 
     example:
-    > anoterKarimExample.greeting();
+    > anotherKarimExample.greeting();
     <- Hi, my name is Karim, and I work at Redwood Code Academy.
 
     You can also call it by bracket notation:
-    > anoterKarimExample["greeting"]();
+    > anotherKarimExample["greeting"]();
     <- Hi, my name is Karim, and I work at Redwood Code Academy. 
 */
 
